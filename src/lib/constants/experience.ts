@@ -28,6 +28,7 @@ export const EXPERIENCES: Experience[] = [
       },
     ],
   },
+  /*Commenting until Needed
   {
     company: "BIGmama Technology",
     positions: [
@@ -150,6 +151,6 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
     ],
-  },
+  },*/
 ];
 
